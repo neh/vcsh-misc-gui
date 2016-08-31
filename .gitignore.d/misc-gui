@@ -1,0 +1,9 @@
+*
+!/.config
+!/.config/compton.conf
+!/.config/redshift.conf
+!/.config/rtv
+!/.config/rtv/rtv.cfg
+!/.config/termite
+!/.config/termite/config
+!/.Xresources
