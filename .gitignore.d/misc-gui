@@ -6,4 +6,6 @@
 !/.config/rtv/rtv.cfg
 !/.config/termite
 !/.config/termite/config
+!/.gitignore.d
+!/.gitignore.d/misc-gui
 !/.Xresources
