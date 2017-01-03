@@ -77,8 +77,8 @@ UXTerm*faceSize: 10
 
 
 rofi.modi:                           window,run,ssh
-rofi.opacity:                        85
-rofi.width:                          50
+rofi.opacity:                        95
+rofi.width:                          30
 rofi.lines:                          15
 rofi.columns:                        1
 rofi.font:                           URW Gothic L Demi Oblique 13
